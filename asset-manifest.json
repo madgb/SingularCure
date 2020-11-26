@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b865452b.chunk.css",
+    "main.js": "./static/js/main.accf9319.chunk.js",
+    "main.js.map": "./static/js/main.accf9319.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.851de3a6.js",
+    "runtime-main.js.map": "./static/js/runtime-main.851de3a6.js.map",
+    "static/js/2.bb788535.chunk.js": "./static/js/2.bb788535.chunk.js",
+    "static/js/2.bb788535.chunk.js.map": "./static/js/2.bb788535.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.ada392b2142c0980539dbc5c83a409ae.js": "./precache-manifest.ada392b2142c0980539dbc5c83a409ae.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.b865452b.chunk.css.map": "./static/css/main.b865452b.chunk.css.map",
+    "static/js/2.bb788535.chunk.js.LICENSE.txt": "./static/js/2.bb788535.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "./static/media/avatar.e67e358c.png",
+    "static/media/dna-background.jpg": "./static/media/dna-background.08ca08ec.jpg",
+    "static/media/femaleAvatar.png": "./static/media/femaleAvatar.a8571a6e.png",
+    "static/media/loadingGif.gif": "./static/media/loadingGif.b56d2727.gif",
+    "static/media/logo.png": "./static/media/logo.a625b3fa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.851de3a6.js",
+    "static/js/2.bb788535.chunk.js",
+    "static/css/main.b865452b.chunk.css",
+    "static/js/main.accf9319.chunk.js"
+  ]
+}
